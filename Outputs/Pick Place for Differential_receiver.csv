@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+C:\Users\kugli\Documents\Projektek\Differential_receiver\Project Outputs for Differential_receiver\Pick Place for Differential_receiver.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/10/25
+Time:       16:53
+Revision:   71f66768b718bad0deaa3ce70167027b6cae007c
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U2","THVD2450DR","TopLayer","FP-D0008A-IPC_B","17.6250","6.6250","180","Line Transceiver, 1 Func, 1 Driver, 1 Rcvr, PDSO8"
+"U1","L78L05ABUTR","TopLayer","SOT-89_N","25.3750","6.0750","90","Positive Voltage Regulator, 5V, 4-Pin SOT-89, Tape and Reel"
+"R4","120R/1%/1206","TopLayer","RESC3216X70X50NL05T20","12.7500","6.3750","90","1206 1% resistor, 250mW"
+"R3","10k/1%/0603","TopLayer","R0603","18.5000","3.2500","180","0603 1% resistor, 100mW"
+"R2","100/1%/0603","TopLayer","R0603","34.1250","6.8750","90","0603 1% resistor, 100mW"
+"R1","10k/1%/0603","TopLayer","R0603","22.2500","5.8750","270","0603 1% resistor, 100mW"
+"D4","NUP3105LT1G","TopLayer","SOT23-3","8.7500","6.0000","270","Trans Voltage Suppressor Diode, 350W, 32V V(RWM), Bidirectional, 2 Element, Silicon"
+"D3","KPG-1608ZGC","TopLayer","LED0603_GREEN","22.2500","3.3125","270","Single Color LED, Green, Water Clear, 1.2mm"
+"D2","SMAJ30CA","TopLayer","DO-214AC(SMA)","31.8750","4.7500","270","Trans Voltage Suppressor Diode, 400W, 30V V(RWM), Bidirectional, 1 Element, Silicon, DO-214AC"
+"D1","MBR160","TopLayer","SOD-123","29.2500","9.2500","270","Rectifier Diode, Schottky, 1 Element, 1A, 60V, Silicon, SOD-123"
+"C6","10pF/50V/NPO","TopLayer","C0603","12.0000","3.6250","0","0603 capacitor"
+"C5","10pF/50V/NPO","TopLayer","C0603","11.1250","5.6250","270","0603 capacitor"
+"C4","100nF/50V/X7R","TopLayer","C0603","16.0000","3.2500","180","0603 capacitor"
+"C3","100nF/50V/X7R","TopLayer","C0603","23.0000","8.7500","180","0603 capacitor"
+"C2","100nF/50V/X7R","TopLayer","C0603","28.5000","5.2500","90","0603 capacitor"
+"C1","10µF/10V/X5R","TopLayer","C0603","29.7500","5.2500","90","0603 capacitor"
